@@ -29,11 +29,7 @@ We evaluate the models and identify the most incorrect predictions to gain insig
 ### 7. Predictions on New Data
 Finally, we use our trained model to make predictions on unseen PubMed abstracts, demonstrating the model's practical application.
 
-## How to Use This Notebook
-To fully understand and absorb the content, consider the following approach:
-1. Read through the provided descriptions and code.
-2. Attempt to write the code on your own, using this notebook as a guide.
-3. Experiment with the code, make modifications, and observe the effects.
+
 
 
 ---
